@@ -253,13 +253,18 @@ input{
 }
 
 footer{
-    
-    height: 125px;
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 125px;
     background-color: black;
     color: white;
+}
+
+.be-humble{
+    
+    align-items: center;
+    
 }
 
 footer h2{

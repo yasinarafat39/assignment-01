@@ -104,6 +104,11 @@
     outline: none;
     font-size: 15px;
 }
+
+.input-from-user input::placeholder {
+    text-align: center;
+}
+
 .donate-today .input-from-user input{
 
     width: 50%;
@@ -213,9 +218,11 @@
 }
 
 input{
-    font-size: 20px;
+    font-size: 15px;
     
 }
+
+
 
 #E-mail{
     background: #d9d9d9;
